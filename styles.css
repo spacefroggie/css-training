@@ -1,0 +1,25 @@
+/* External CSS */
+
+body {
+  /* body er en CSS selector
+  {} indikerer en CSS Declaration */
+  /* property:value; som er en CSS rule */
+  background-color: darkolivegreen;
+}
+
+ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 15px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+/* id-navn selector */
+#home
+
+/* class-navn selector */
+/* class-navn selector */
+ListItemHome; 

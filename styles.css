@@ -4,7 +4,16 @@ body {
   /* body er en CSS selector
   {} indikerer en CSS Declaration */
   /* property:value; som er en CSS rule */
+  background: url("srimps.jpg") no-repeat;
+  background-size: cover;
+  color:chocolate;
+  font-family: "Comic Sans MS";
+  font-weight: 900;
+
   background-color: darkolivegreen;
+  /*
+  background: linear-gradient(90deg, #ff00ff 0%, #ffa0a0 100%);
+  */
 }
 
 ul {
